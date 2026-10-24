@@ -13,6 +13,6 @@ Welcome to my CSE422 project repository! This repository contains the project I 
 
 ## License
 
-This repository is licensed under the [Apache-2.0 License] (http://www.apache.org/licenses/). You are free to use, modify, and distribute the code with proper attribution.
+This repository is licensed under the [Apache-2.0 License](LICENSE). You are free to use, modify, and distribute the code with proper attribution.
 
 ---
