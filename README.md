@@ -11,7 +11,7 @@
 | **Course** | CSE422: Artificial Intelligence, BRAC University |
 | **Semester** | Spring 2024, rebuilt in October 2026 |
 | **Type** | Group project |
-| **Made by** | Faiaz Abrar Zaman Pronoy and Md. Jahirul Islam Zishan |
+| **Made by** | Faiaz Abrar Zaman Pronoy, Sinthia Khandoker and Md. Jahirul Islam Zishan |
 | **Versions** | [v1.0, the course submission, and v2.0, the rebuild](../../releases) |
 
 ---
@@ -132,10 +132,11 @@ The [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-reg
 ## Authors
 
 - **Faiaz Abrar Zaman Pronoy** (ফাইয়াজ আবরার জামান প্রনয়), lead developer
+- **Sinthia Khandoker** (সিনথিয়া খন্দকার)
 - **Md. Jahirul Islam Zishan** (মোঃ জহিরুল ইসলাম জিশান)
 
 ## Licence
 
-Copyright 2024-2026 Faiaz Abrar Zaman Pronoy and Md. Jahirul Islam Zishan. All rights reserved.
+Copyright 2024-2026 Faiaz Abrar Zaman Pronoy, Sinthia Khandoker and Md. Jahirul Islam Zishan. All rights reserved.
 You may read the code and run it to try it out. You may not copy it, hand it in
 as your own work, or publish it. See [LICENSE](LICENSE).
