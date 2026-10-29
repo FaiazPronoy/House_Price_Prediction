@@ -131,9 +131,9 @@ The [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-reg
 
 ## Authors
 
-- **Faiaz Abrar Zaman Pronoy** (ফাইয়াজ আবরার জামান প্রনয়), lead developer
-- **Sinthia Khandoker** (সিনথিয়া খন্দকার)
-- **Md. Jahirul Islam Zishan** (মোঃ জহিরুল ইসলাম জিশান)
+- **Faiaz Abrar Zaman Pronoy**, lead developer
+- **Sinthia Khandoker**
+- **Md. Jahirul Islam Zishan**
 
 ## Licence
 
